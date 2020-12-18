@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="750"
+   height="500"
+   viewBox="0 0 750 500"
+   version="1.1"
+   id="svg977"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="books2.svg">
+  <defs
+     id="defs971" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="372.9086"
+     inkscape:cy="222.70449"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata974">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:6.4"
+       id="rect1554"
+       width="722.71423"
+       height="442.42856"
+       x="16.499998"
+       y="30.928577" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:6.4"
+       id="path1556"
+       cx="38.571426"
+       cy="49.82143"
+       rx="5.7142859"
+       ry="5.8928571" />
+    <ellipse
+       style="fill:#ffff00;stroke-width:6.4"
+       id="path1556-8"
+       cx="52.5"
+       cy="50.142857"
+       rx="5.7142859"
+       ry="5.8928571" />
+    <ellipse
+       style="fill:#00ff00;stroke-width:6.4"
+       id="path1556-8-6"
+       cx="66.785713"
+       cy="49.642857"
+       rx="5.7142859"
+       ry="5.8928571" />
+    <rect
+       style="fill:#808080;stroke-width:6.4"
+       id="rect1588"
+       width="708.57141"
+       height="38.57143"
+       x="22.857143"
+       y="59.14286" />
+    <rect
+       style="fill:#b3b3b3;stroke-width:6.4;opacity:1"
+       id="rect1590"
+       width="708.57141"
+       height="375.64285"
+       x="22.857143"
+       y="97.714294" />
+    <rect
+       style="fill:#000080;fill-opacity:1;stroke:#00ffff;stroke-width:2.4;stroke-linejoin:round;stroke-opacity:1"
+       id="rect1019"
+       width="132.32999"
+       height="130.30968"
+       x="112.64687"
+       y="203.42934" />
+    <rect
+       style="fill:#803300;fill-opacity:1;stroke:#ff6600;stroke-width:2.4;stroke-linejoin:round;stroke-opacity:1"
+       id="rect1019-6"
+       width="132.32999"
+       height="130.30968"
+       x="305.0809"
+       y="205.97502" />
+    <rect
+       style="fill:#800080;fill-opacity:1;stroke:#ff00ff;stroke-width:2.4;stroke-linejoin:round;stroke-opacity:1"
+       id="rect1019-6-7"
+       width="132.32999"
+       height="130.30968"
+       x="505.09109"
+       y="206.98518" />
+    <text
+       xml:space="preserve"
+       style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#00ffff;stroke:none;stroke-opacity:1"
+       x="177.14287"
+       y="292.85715"
+       id="text1053"><tspan
+         sodipodi:role="line"
+         id="tspan1051"
+         x="177.14287"
+         y="292.85715"
+         style="font-size:74.6667px">Ps</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#00ffff;stroke:none;stroke-opacity:1"
+       x="369.31396"
+       y="298.07962"
+       id="text1053-6"><tspan
+         sodipodi:role="line"
+         id="tspan1051-7"
+         x="369.31396"
+         y="298.07962"
+         style="font-size:74.6667px;fill:#ff6600;fill-opacity:1">Ai</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#00ffff;stroke:none;stroke-opacity:1"
+       x="572.17114"
+       y="298.07965"
+       id="text1053-8"><tspan
+         sodipodi:role="line"
+         id="tspan1051-5"
+         x="572.17114"
+         y="298.07965"
+         style="font-size:74.6667px;fill:#ff00ff;fill-opacity:1">Ch</tspan></text>
+  </g>
+</svg>
